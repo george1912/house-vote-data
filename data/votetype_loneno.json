@@ -1,0 +1,156 @@
+{
+   "results":[
+      {
+         "congress": "114",
+         "chamber": "House",
+         "num_results": 12,
+         "offset": 0,
+         "members": [
+              {
+                 "id": "A000367",
+                 "api_uri":"https://api.propublica.org/congress/v1/members/A000367.json",
+                 "name": "Justin Amash",
+                 "party": "R",
+                 "state": "MI",
+                 "district": "3",
+                 "total_votes": 1325,
+                 "loneno": 7,
+                 "rank": 1,
+                 "notes": ""
+               },
+                           {
+                 "id": "M001177",
+                 "api_uri":"https://api.propublica.org/congress/v1/members/M001177.json",
+                 "name": "Tom McClintock",
+                 "party": "R",
+                 "state": "CA",
+                 "district": "4",
+                 "total_votes": 1325,
+                 "loneno": 2,
+                 "rank": 2,
+                 "notes": ""
+               },
+                           {
+                 "id": "M001184",
+                 "api_uri":"https://api.propublica.org/congress/v1/members/M001184.json",
+                 "name": "Thomas Massie",
+                 "party": "R",
+                 "state": "KY",
+                 "district": "4",
+                 "total_votes": 1325,
+                 "loneno": 2,
+                 "rank": 3,
+                 "notes": ""
+               },
+                           {
+                 "id": "S000244",
+                 "api_uri":"https://api.propublica.org/congress/v1/members/S000244.json",
+                 "name": "F. James Sensenbrenner",
+                 "party": "R",
+                 "state": "WI",
+                 "district": "5",
+                 "total_votes": 1325,
+                 "loneno": 2,
+                 "rank": 4,
+                 "notes": ""
+               },
+                           {
+                 "id": "Y000033",
+                 "api_uri":"https://api.propublica.org/congress/v1/members/Y000033.json",
+                 "name": "Don Young",
+                 "party": "R",
+                 "state": "AK",
+                 "district": "1",
+                 "total_votes": 1311,
+                 "loneno": 2,
+                 "rank": 5,
+                 "notes": ""
+               },
+                           {
+                 "id": "H001047",
+                 "api_uri":"https://api.propublica.org/congress/v1/members/H001047.json",
+                 "name": "Jim Himes",
+                 "party": "D",
+                 "state": "CT",
+                 "district": "4",
+                 "total_votes": 1325,
+                 "loneno": 1,
+                 "rank": 6,
+                 "notes": ""
+               },
+                           {
+                 "id": "H001052",
+                 "api_uri":"https://api.propublica.org/congress/v1/members/H001052.json",
+                 "name": "Andy Harris",
+                 "party": "R",
+                 "state": "MD",
+                 "district": "1",
+                 "total_votes": 1325,
+                 "loneno": 1,
+                 "rank": 7,
+                 "notes": ""
+               },
+                           {
+                 "id": "H001057",
+                 "api_uri":"https://api.propublica.org/congress/v1/members/H001057.json",
+                 "name": "Tim Huelskamp",
+                 "party": "R",
+                 "state": "KS",
+                 "district": "1",
+                 "total_votes": 1325,
+                 "loneno": 1,
+                 "rank": 8,
+                 "notes": "Lost primary election on Aug. 2, 2016."
+               },
+                           {
+                 "id": "R000576",
+                 "api_uri":"https://api.propublica.org/congress/v1/members/R000576.json",
+                 "name": "C.A. Dutch Ruppersberger",
+                 "party": "D",
+                 "state": "MD",
+                 "district": "2",
+                 "total_votes": 1325,
+                 "loneno": 1,
+                 "rank": 9,
+                 "notes": ""
+               },
+                           {
+                 "id": "S000248",
+                 "api_uri":"https://api.propublica.org/congress/v1/members/S000248.json",
+                 "name": "José E. Serrano",
+                 "party": "D",
+                 "state": "NY",
+                 "district": "15",
+                 "total_votes": 1325,
+                 "loneno": 1,
+                 "rank": 10,
+                 "notes": ""
+               },
+                           {
+                 "id": "S001175",
+                 "api_uri":"https://api.propublica.org/congress/v1/members/S001175.json",
+                 "name": "Jackie Speier",
+                 "party": "D",
+                 "state": "CA",
+                 "district": "14",
+                 "total_votes": 1325,
+                 "loneno": 1,
+                 "rank": 11,
+                 "notes": ""
+               },
+                           {
+                 "id": "V000081",
+                 "api_uri":"https://api.propublica.org/congress/v1/members/V000081.json",
+                 "name": "Nydia M. Velázquez",
+                 "party": "D",
+                 "state": "NY",
+                 "district": "7",
+                 "total_votes": 1320,
+                 "loneno": 1,
+                 "rank": 12,
+                 "notes": ""
+               }
+             ]
+      }
+   ]
+}

@@ -1,0 +1,102 @@
+{
+   "results":[
+      {
+         "congress": "114",
+         "chamber": "House",
+         "num_results": 9,
+         "offset": 0,
+         "members": [
+              {
+                 "id": "L000567",
+                 "api_uri":"https://api.propublica.org/congress/v1/members/L000567.json",
+                 "name": "Leonard Lance",
+                 "party": "R",
+                 "state": "NJ",
+                 "district": "7",
+                 "total_votes": 1325,
+                 "notes": ""
+               },
+                           {
+                 "id": "C001062",
+                 "api_uri":"https://api.propublica.org/congress/v1/members/C001062.json",
+                 "name": "K. Michael Conaway",
+                 "party": "R",
+                 "state": "TX",
+                 "district": "11",
+                 "total_votes": 1325,
+                 "notes": ""
+               },
+                           {
+                 "id": "L000554",
+                 "api_uri":"https://api.propublica.org/congress/v1/members/L000554.json",
+                 "name": "Frank A. LoBiondo",
+                 "party": "R",
+                 "state": "NJ",
+                 "district": "2",
+                 "total_votes": 1325,
+                 "notes": ""
+               },
+                           {
+                 "id": "S000244",
+                 "api_uri":"https://api.propublica.org/congress/v1/members/S000244.json",
+                 "name": "F. James Sensenbrenner",
+                 "party": "R",
+                 "state": "WI",
+                 "district": "5",
+                 "total_votes": 1325,
+                 "notes": ""
+               },
+                           {
+                 "id": "U000031",
+                 "api_uri":"https://api.propublica.org/congress/v1/members/U000031.json",
+                 "name": "Fred Upton",
+                 "party": "R",
+                 "state": "MI",
+                 "district": "6",
+                 "total_votes": 1325,
+                 "notes": ""
+               },
+                           {
+                 "id": "W000809",
+                 "api_uri":"https://api.propublica.org/congress/v1/members/W000809.json",
+                 "name": "Steve Womack",
+                 "party": "R",
+                 "state": "AR",
+                 "district": "3",
+                 "total_votes": 1325,
+                 "notes": ""
+               },
+                           {
+                 "id": "A000367",
+                 "api_uri":"https://api.propublica.org/congress/v1/members/A000367.json",
+                 "name": "Justin Amash",
+                 "party": "R",
+                 "state": "MI",
+                 "district": "3",
+                 "total_votes": 1325,
+                 "notes": ""
+               },
+                           {
+                 "id": "M001197",
+                 "api_uri":"https://api.propublica.org/congress/v1/members/M001197.json",
+                 "name": "Martha McSally",
+                 "party": "R",
+                 "state": "AZ",
+                 "district": "2",
+                 "total_votes": 1325,
+                 "notes": ""
+               },
+                           {
+                 "id": "Y000066",
+                 "api_uri":"https://api.propublica.org/congress/v1/members/Y000066.json",
+                 "name": "David Young",
+                 "party": "R",
+                 "state": "IA",
+                 "district": "3",
+                 "total_votes": 1325,
+                 "notes": ""
+               }
+             ]
+      }
+   ]
+}
